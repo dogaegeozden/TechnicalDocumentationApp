@@ -11,7 +11,7 @@ Technical Documentation App is guide which is designed to help you learn the fun
 - **Clear and Concise**: Easy-to-understand explanations and examples for each topic covered.
 - **Interactive Navigation**: Navigate through different sections effortlessly with the interactive navigation bar.
 - **Responsive Design**: Access the documentation from any device, ensuring a seamless learning experience.
-- **Code Snipped**: Easy to see code snippets created with code element.
+- **Code Snippets**: Easy to see code snippets created with code element.
 
 ## Technologies Used
 
