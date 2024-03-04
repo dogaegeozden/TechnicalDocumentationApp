@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Technical Documentation App is guide which is designed to help you learn the fundamentals of JavaScript programming language. Whether you're a beginner or looking to refresh your skills, this documentation will provide you the very basics you need to know to get started with JavaScript.
+Technical Documentation App is guide which is designed to help you learn the fundamentals of JavaScript programming language. If you're a beginner, this documentation will provide you the very basics you need to know to get started with JavaScript.
 
 ## Features
 
